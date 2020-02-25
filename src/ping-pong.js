@@ -1,5 +1,4 @@
 import $ from 'jquery';
-
 export function pingPong(goal) {
   var output = [];
   for (var i = 1; i <= goal; i++) {

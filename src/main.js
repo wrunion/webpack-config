@@ -1,4 +1,3 @@
-import './styles.css';
 import { pingPong } from './ping-pong';
 import $ from 'jquery';
 import 'bootstrap';
